@@ -4,7 +4,6 @@
 <br>
 <img src="https://github.com/joe20050108/tf2autobot-neko-demo/blob/main/example-autobot.png?raw=true">
 <br>
+Embed Demonstration.
 <img src="https://raw.githubusercontent.com/joe20050108/tf2autobot-neko-demo/main/Screenshot%202023-08-04%20173754.png">
 <img src="https://raw.githubusercontent.com/joe20050108/tf2autobot-neko-goals/main/Screenshot%202023-08-22%20195337.png">
-Embed
-Demonstration.
