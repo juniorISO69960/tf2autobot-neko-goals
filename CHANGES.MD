@@ -6,3 +6,5 @@
 3. All instances of "TF2Autobot-neko" now have "-Neko" capitalized.
 4. Rich Presence now supported for TF2. 
 5. States like halt and update are now indicated on steam too.
+# 09-04-23
+1. Logs now format as [ YEAR-MM-DD HH:MM:SS ] [ LEVEL ]: instead of YYYY-MM-DD HH:MM:SS LEVEL:
