@@ -8,3 +8,5 @@
 5. States like halt and update are now indicated on steam too.
 # 09-04-23
 1. Logs now format as [ YEAR-MM-DD HH:MM:SS ] [ LEVEL ]: instead of YYYY-MM-DD HH:MM:SS LEVEL:
+# 09-08-23
+1. Added autobump into the code, as well as parameters autobump.enable & autobump.interval + some TF2AB-NL formatting (Neko-a-b)
