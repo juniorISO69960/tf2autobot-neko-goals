@@ -1,9 +1,48 @@
-# tf2autobot-neko-demo
-<a>Design Goals: Discord Embeds, support for adding items to pricelist using their classifieds links.</a>
-<a style="height: 200px; width: 200px;"><img src="https://raw.githubusercontent.com/joe20050108/tf2autobot-neko-resources/main/logo.png"></a>
-<br>
-<img src="https://github.com/joe20050108/tf2autobot-neko-demo/blob/main/example-autobot.png?raw=true">
-<br>
-Embed Demonstration.
-<img src="https://raw.githubusercontent.com/joe20050108/tf2autobot-neko-demo/main/demo0.png">
-<img src="https://raw.githubusercontent.com/joe20050108/tf2autobot-neko-goals/main/image.png">
+![](https://raw.githubusercontent.com/joe20050108/tf2autobot-neko-goals/main/logo25.png) tf2autobot-neko-demo
+====================
+
+Design Goals:
+
+-   Discord Embeds
+
+    -   Steam Rich-Presence
+
+    -   Support for adding items to price-list using their classifieds links.
+
+    -   And many more.
+
+ 
+
+Embed Demonstration;
+
+![](https://raw.githubusercontent.com/joe20050108/tf2autobot-neko-goals/main/demo0.png)
+
+ 
+
+This is what currently shows when you do the !listing command in discord with
+the new tf2autobot-neko bots
+
+ 
+
+Steam Rich Presence;
+
+![](https://raw.githubusercontent.com/joe20050108/tf2autobot-neko-goals/main/demo2.png)
+
+Here we say a tf2autobot-neko playing tf2 with a custom rich-presence saying it
+is in special event Autopatting neko
+
+ 
+
+Last but not least,
+
+Autobump;
+
+ 
+
+![](https://raw.githubusercontent.com/joe20050108/tf2autobot-neko-goals/main/demo4.png)
+
+ 
+
+ 
+
+With tf2autobot-neko your bots can autobump without using backpack.tf premium!
