@@ -26,7 +26,7 @@ the new tf2autobot-neko bots
 
 Steam Rich Presence;
 
-![](https://raw.githubusercontent.com/joe20050108/tf2autobot-neko-goals/main/demo2.png)
+![](https://raw.githubusercontent.com/joe20050108/tf2autobot-neko-goals/main/demo2.png)![](https://raw.githubusercontent.com/joe20050108/tf2autobot-neko-goals/main/image.png)
 
 Here we say a tf2autobot-neko playing tf2 with a custom rich-presence saying it
 is in special event Autopatting neko
