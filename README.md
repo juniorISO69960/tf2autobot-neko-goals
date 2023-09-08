@@ -39,4 +39,5 @@ Autobump;
 
 ![](https://raw.githubusercontent.com/joe20050108/tf2autobot-neko-goals/main/demo4.png)
 
-With tf2autobot-neko your bots can autobump without using backpack.tf premium! (At minimum you need to wait at least 4 hours)
+With tf2autobot-neko your bots can autobump without using backpack.tf premium! 
+###### (At minimum you need to wait at least 4 hours)
