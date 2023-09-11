@@ -10,3 +10,5 @@
 1. Logs now format as [ YEAR-MM-DD HH:MM:SS ] [ LEVEL ]: instead of YYYY-MM-DD HH:MM:SS LEVEL:
 # 09-08-23
 1. Added autobump into the code, as well as parameters autobump.enable & autobump.interval + some TF2AB-NL formatting (Neko-a-b)
+# 09-11-23
+1. Uptime now supports showing the system uptime as well.
