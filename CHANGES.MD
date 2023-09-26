@@ -12,3 +12,5 @@
 1. Added autobump into the code, as well as parameters autobump.enable & autobump.interval + some TF2AB-NL formatting (Neko-a-b)
 # 09-11-23
 1. Uptime now supports showing the system uptime as well.
+# 09-26-23
+1. Added a PM2 command to allow for better control over the bots.
