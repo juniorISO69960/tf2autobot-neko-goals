@@ -20,7 +20,7 @@ PM2 commands;
 
 ![](https://raw.githubusercontent.com/joe20050108/tf2autobot-neko-goals/main/pm2.png)
 
-Hosting bots couldnt be more easier with the ability to stop start and restart a specific [PM2] (https://pm2.keymetrics.io)  instance!
+Hosting bots couldnt be more easier with the ability to stop start and restart a specific [PM2](https://pm2.keymetrics.io)  instance!
 
  
 
