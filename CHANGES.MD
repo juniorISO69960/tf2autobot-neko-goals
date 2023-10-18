@@ -14,3 +14,6 @@
 1. Uptime now supports showing the system uptime as well.
 # 09-26-23
 1. Added a PM2 command to allow for better control over the bots.
+# 10-17-23
+1. Fixed a major bug involving embeds and a lack of a discord token.
+2. Previous Unmentioned Feature: GUI Support in IPC branch of tf2abn fork.
