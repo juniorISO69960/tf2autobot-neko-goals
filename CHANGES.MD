@@ -17,3 +17,9 @@
 # 10-17-23
 1. Fixed a major bug involving embeds and a lack of a discord token.
 2. Previous Unmentioned Feature: GUI Support in IPC branch of tf2abn fork.
+# 10-18-23
+1. Added rl for refreshlist as an alias that is abreviated.
+2. Optimized some embeds.
+3. !links now has embed support for discord.
+4. !bump now has embed support for discord.
+5. embed iconURL can now be changed as well as embed colors warn, error, ok, and default.
