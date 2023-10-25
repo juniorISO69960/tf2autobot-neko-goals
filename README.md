@@ -48,7 +48,16 @@ Last but not least,
 
 Autobump;
 
-![](https://raw.githubusercontent.com/joe20050108/tf2autobot-neko-goals/main/demo4.png)
+![](https://raw.githubusercontent.com/joe20050108/tf2autobot-neko-goals/main/demo4.png)![](https://raw.githubusercontent.com/joe20050108/tf2autobot-neko-goals/main/Embed_Color_Example_2.png)
 
 With tf2autobot-neko your bots can autobump without using backpack.tf premium! 
 ###### (At minimum you need to wait at least 4 hours)
+
+Links;
+![](https://raw.githubusercontent.com/joe20050108/tf2autobot-neko-goals/main/Links_Update.png)
+Links now have a nicer looking embed for discord. This image shows the difference between the two.
+
+Embed Accent Indicators;
+![](https://raw.githubusercontent.com/joe20050108/tf2autobot-neko-goals/main/Embed_Color_Example.png)
+Embeds have certain colors like red for error yellow for warning and green for OK and pink for normal embeds. 
+###### These colors can be changed in options.json!
