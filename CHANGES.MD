@@ -25,3 +25,10 @@
 5. embed iconURL can now be changed as well as embed colors warn, error, ok, and default.
 # 10-24-23
 1. Patched a legacy fallback bug preventing embeds for working in direct messages.
+2. Added an "operator" environment option for use with renting on trade bots based on tf2abn.
+    - Operators will be able to execute commannds like !eval and !pm2 while admins will no longer be able to if an operator is defined.
+    ## Extended Documentation
+        - If an operator is defined, only that operator can access commands that require operator to work.
+        - If no operators are defined, all admins can access commands.
+# TODOS
+1. Add !operator command
