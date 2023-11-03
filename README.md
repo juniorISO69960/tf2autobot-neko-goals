@@ -14,7 +14,7 @@ Design Goals:
 
 ```diff
 + All tf2autobot-neko bot instances are handled in PM2
-+ ONLY tf2autobot-neko proccesses can communicate with each other through PM2. TF2ABN-L and TF2ABN are unable to utilize this feature.
++ ONLY tf2autobot-neko proccesses can communicate with each other through PM2. TF2ABN-L and TF2ABN are unable to utilize this feature. (PM2BUS)
 ```
 
 PM2 commands;
