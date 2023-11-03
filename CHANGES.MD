@@ -25,10 +25,21 @@
 5. embed iconURL can now be changed as well as embed colors warn, error, ok, and default.
 # 10-24-23
 1. Patched a legacy fallback bug preventing embeds for working in direct messages.
-2. Added an "operator" environment option for use with renting on trade bots based on tf2abn.
-    - Operators will be able to execute commannds like !eval and !pm2 while admins will no longer be able to if an operator is defined.
-    ## Extended Documentation
-        - If an operator is defined, only that operator can access commands that require operator to work.
-        - If no operators are defined, all admins can access commands.
-# TODOS
-1. Add !operator command
+# 10-25-23
+1. Added an operator boolean to admins so only certain admins can execute !pm2 and !eval.
+2. !eval now uses embeds.
+3. !pm2 now uses embeds.
+4. All command not found errors now use embeds.
+# 10-31-23
+1. Added a ghost for halloween :o
+2. Added a pm2 bus communication foundation for future use.
+3. !pm2 now has a list parameter to show all processes pm2 is running.
+4. Added support for multiple embeds per message.
+# 11-01-23
+1. Added embeds for !add and !update
+2. Added partial embed support for !autoadd
+3. pm2bus updates
+# 11-02-23
+1. Added embeds for !autoadd and !addbulk
+2. Added support for getting the pricelist entry of a different bot using process=<name|pid>
+    - !get (sku|name|defindex|item|id)&process=<name|pid>
