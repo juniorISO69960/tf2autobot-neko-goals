@@ -26,9 +26,8 @@
 # 10-24-23
 1. Patched a legacy fallback bug preventing embeds for working in direct messages.
 # 10-25-23
-1. Added an operator boolean to admins so only certain admins can execute !pm2 and !eval.
-2. !eval now uses embeds.
-3. !pm2 now uses embeds.
+1. !eval now uses embeds.
+2. !pm2 now uses embeds.
 4. All command not found errors now use embeds.
 # 10-31-23
 1. Added a ghost for halloween :o
@@ -43,3 +42,18 @@
 1. Added embeds for !autoadd and !addbulk
 2. Added support for getting the pricelist entry of a different bot using process=<name|pid>
     - !get (sku|name|defindex|item|id)&process=<name|pid>
+# 11-07-23
+1. PM2Bus Optimizations
+2. Add and upate embeds now show item quality using accent, as well as show the effect and an image of the item.
+3. Optimized pricelistUpdate webhook + added exports for pricelistManager embeds to rely on pricelistUpdate webhook code.
+4. !get now uses embeds and supports pm2bus.
+# 11-09-23
+1. Replaced timeout based autobump with an interval based autoRelist function rewritten from the ground up.
+    - The loop will end and restart under the following conditions:
+        1. The bot is halted or unhalted.
+        2. Listing creation is enabled or disabled.
+        3. Autobump is enabled or disabled.
+    - Autobump will completely disable itself within the config if the bot is premium.
+2. Replaced front end !bump with a newer more optimized version rewritten from the ground up.
+    - This !bump can handle halting, listing creation, and premium bot conditions better than the original function.
+3. Removed useless ternarys that are no longer required
